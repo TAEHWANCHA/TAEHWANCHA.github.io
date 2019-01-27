@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme : mmistakes/minimal-mistakes
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -294,4 +296,4 @@ defaults:
       share: true
       related: true
       
-      remote_theme : mmistakes/minimal-mistakes
+      
